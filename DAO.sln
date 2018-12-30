@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{E43B3D8E-C451-4E31-9A0C-AE164CA26F1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E43B3D8E-C451-4E31-9A0C-AE164CA26F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E43B3D8E-C451-4E31-9A0C-AE164CA26F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E43B3D8E-C451-4E31-9A0C-AE164CA26F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E43B3D8E-C451-4E31-9A0C-AE164CA26F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {942DCF0B-7AC6-47C6-BB91-414BF885536C}
+	EndGlobalSection
+EndGlobal
