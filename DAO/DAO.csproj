@@ -13,6 +13,9 @@
     <Reference Include="DBConnection">
       <HintPath>E:\New folder\Project1.0\DBConnection\DBConnection\bin\Debug\netstandard2.0\DBConnection.dll</HintPath>
     </Reference>
+    <Reference Include="Entities">
+      <HintPath>..\..\Entities\Entities\Entities\bin\Debug\netstandard2.0\Entities.dll</HintPath>
+    </Reference>
     <Reference Include="MySql.Data">
       <HintPath>bin\Debug\netstandard2.0\MySql.Data.dll</HintPath>
     </Reference>
